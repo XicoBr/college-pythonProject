@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c555b694-afa5-492f-b772-87707a9fe6c5" name="Changes" comment="testando commit direto do pycharm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1/rascunho.py" beforeDir="false" afterPath="$PROJECT_DIR$/p1/rascunho.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.funcao_converte_segundos.executor": "Run",
     "Python.rascunho.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
