@@ -24,7 +24,7 @@ alunos = ['Ana', 'Beto', 'Carla']
 notas = [7.0, 5.5, 8.0]
 dic_final = {}
 val = 0
-maior_nota = 0
+maior_nota = 0e
 for aluno, nota in zip(alunos, notas):  # zip agrupa em dupla 1 elemento de cada lista
     dic_final[aluno] = nota  # o índice 'aluno' recebe o valor 'nota'
     if nota > maior_nota:
